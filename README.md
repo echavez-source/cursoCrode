@@ -1,1 +1,5 @@
 # cursoCrode
+
+## Formato
+*Cursivas*
+**Negritas**
